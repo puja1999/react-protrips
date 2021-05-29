@@ -1,0 +1,44 @@
+h1{
+    color: white;
+    margin-top: 10%;
+    text-align: center;
+}
+
+table, th, td{
+    margin-left: 20%;
+    margin-top: -15%;
+    color: white;
+}
+
+table{
+    width: 60%;
+}
+
+th{
+    border-bottom: 1px solid white;
+    height: 70px;
+}
+
+tbody{
+    text-align: center;
+}
+
+.filter{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 40%;
+    
+}
+
+.filter hr{
+    border-bottom: 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 10px dotted white;
+    margin: 4px 10px 0 0;
+}
+
+.filter p{
+    margin-right: 30px;
+    cursor: pointer;
+}
