@@ -22,13 +22,13 @@ function App() {
       <Router>
         <div className="nav-bar">
           <button>
-            <Link to="/"><img src="https://img.icons8.com/metro/50/000000/home.png" alt="home-button" /></Link>
+          <Link className="icon1" to="/"><i className='fas fa-home'></i> </Link>
           </button>
           <button>
-            <Link to="/addTrip"><img src="https://img.icons8.com/ios/50/000000/calendar--v1.png" alt="add-trip-button" /></Link>
+            <Link className="icon2" to="/addTrip"><i className='far fa-calendar-plus'></i></Link>
           </button>
           <button>
-            <Link to="/showTrips"><img src="https://img.icons8.com/pastel-glyph/50/000000/around-the-globe--v1.png" alt="all-trip-button" /></Link>
+            <Link className="icon3" to="/showTrips"><i className="fa fa-table" aria-hidden="true"></i></Link>
           </button>
         </div>
         <Switch>
