@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-protrips/static/css/main.45af4589.chunk.css",
-    "main.js": "/react-protrips/static/js/main.1df2e8b4.chunk.js",
-    "main.js.map": "/react-protrips/static/js/main.1df2e8b4.chunk.js.map",
+    "main.css": "/react-protrips/static/css/main.e9620f29.chunk.css",
+    "main.js": "/react-protrips/static/js/main.aad78ad6.chunk.js",
+    "main.js.map": "/react-protrips/static/js/main.aad78ad6.chunk.js.map",
     "runtime-main.js": "/react-protrips/static/js/runtime-main.01121252.js",
     "runtime-main.js.map": "/react-protrips/static/js/runtime-main.01121252.js.map",
     "static/js/2.6b36dc6e.chunk.js": "/react-protrips/static/js/2.6b36dc6e.chunk.js",
     "static/js/2.6b36dc6e.chunk.js.map": "/react-protrips/static/js/2.6b36dc6e.chunk.js.map",
     "index.html": "/react-protrips/index.html",
-    "static/css/main.45af4589.chunk.css.map": "/react-protrips/static/css/main.45af4589.chunk.css.map",
+    "static/css/main.e9620f29.chunk.css.map": "/react-protrips/static/css/main.e9620f29.chunk.css.map",
     "static/js/2.6b36dc6e.chunk.js.LICENSE.txt": "/react-protrips/static/js/2.6b36dc6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01121252.js",
     "static/js/2.6b36dc6e.chunk.js",
-    "static/css/main.45af4589.chunk.css",
-    "static/js/main.1df2e8b4.chunk.js"
+    "static/css/main.e9620f29.chunk.css",
+    "static/js/main.aad78ad6.chunk.js"
   ]
 }
